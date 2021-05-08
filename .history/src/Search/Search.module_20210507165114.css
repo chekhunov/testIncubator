@@ -1,0 +1,33 @@
+.form {
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.searchIn {
+  width: 250px;
+  margin-left: 10px;
+  padding: 10px 15px;
+  font-size: 16px;
+  background-color: rgb(255, 241, 235);
+  border: 1px solid red;
+  outline: violet;
+}
+
+.searchIn:hover {
+  background-color: rgb(255, 191, 191);
+}
+
+.searchBtn {
+  padding: 11px;
+  font-size: 16px;
+  background-color: green;
+  color: wheat;
+  border: none;
+  outline: transparent;
+}
+
+.searchBtn:hover {
+  background-color: rgb(0, 85, 0);
+}

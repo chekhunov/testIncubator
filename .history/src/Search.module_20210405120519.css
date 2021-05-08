@@ -1,0 +1,15 @@
+label {
+  margin-right: 10px;
+}
+
+.searchIn {
+  width: 250px;
+  padding: 10px 15px;
+  font-size: 16px;
+  background-color: rgb(255, 241, 235);
+  border: 1px solid red;
+}
+
+.searchIn:hover {
+  background-color: rgb(255, 191, 191);
+}
